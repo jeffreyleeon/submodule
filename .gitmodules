@@ -1,0 +1,3 @@
+[submodule "some_dir/3021-pa2"]
+	path = some_dir/3021-pa2
+	url = git@github.com:jeffreyleeon/3021-pa2.git
